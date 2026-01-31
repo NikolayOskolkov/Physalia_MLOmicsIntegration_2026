@@ -4,7 +4,7 @@
 
 ## Instructor
 
-- Dr. Nikolay Oskolkov, Lund University, NBIS SciLifeLab
+- Dr. Nikolay Oskolkov, PhD, Metabolic Research Group Leader, LIOS, Riga, Latvia
 
 ## Course overview
 Next-Generation Sequencing (NGS) technologies have led to the generation of vast amounts of biological and biomedical Big Data. The rapidly expanding volume and diversity of this data present both exciting opportunities and considerable challenges for analysis. Biological Big Data from various sources, often referred to as Multi-Omics data, hold great promise due to their synergistic effects, which can potentially model the behavior of biological cells. By integrating Omics data, we can uncover novel biological pathways that may not be detectable in individual Omics datasets alone. In this course, we will explore machine learning methods for integrating large biological datasets, combining both lectures and hands-on sessions.
@@ -29,7 +29,8 @@ By completing this course, you will:
 
 | Time   | Activity                                                          | Link                                                                                                                                                    |
 |--------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ~ 1 h  | Recorded talk: Omics Logic Symposium 2022                                                                                 | [Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)                                            |
+| ~ 1 h  | Recorded talk: PMNET Precision Medicine Forum 2025                                                                        | [Video](https://www.youtube.com/watch?v=aht-VdLw6gs)                                                                                                                             |
+| ~ 1 h  | Recorded talk: Omics Logic Symposium 2022                                                                                 | [Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)                                                                                                                       |
 | ~ 2 h  | Primer article: Predicting type 2 diabetes via machine learning integration of multiple omics from human pancreatic islets| [PDF](https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/raw/main/articles/Multi_Omics_T2D_ScientificReports2024.pdf)                                                                                                                                                                                             |
 | ~ 1 h  | In case needed: Recap on Unix                                                                                             | [Lab](command-line-basics.md)                                                                   |
 | ~ 1 h  | Useful reading: Select features or Omics integration                                                                      | [Blog](https://medium.com/data-science/select-features-for-omics-integration-511390b7e7fd?sk=bf0c744caa41ec0cf37577d85a132276)                                                                                                                                                                                                   |
